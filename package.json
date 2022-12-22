@@ -1,0 +1,9 @@
+{
+  "name": "kungog-prettier-config",
+  "version": "1.0.0",
+  "description": "kungog prettier",
+  "author": "Oscar Gustafsson",
+  "license": "MIT",
+  "main": "index.json",
+  "repository": "git@github.com:kungog/kungog-prettier-config.git"    
+}
